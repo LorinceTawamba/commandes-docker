@@ -123,7 +123,7 @@
 1. **Arrêter plusieurs conteneurs :**
 
     ```properties
-    docker stop <container_name1> (or <container-id1>) <container_name2> (or <container-id2>) <container_name3> (or <container-id3>)
+    docker stop <container_name1> (or <container-id1>) <container_name2> (or <container-id2>)
     ```
 
 1. **Redémarrer le conteneur :**
